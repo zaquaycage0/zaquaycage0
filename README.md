@@ -14,7 +14,7 @@ I’m passionate about Identity and Access Management (IAM) and cybersecurity, w
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/zaquaycage0/threat-hunting-scenario-tor)**
 
 <hr/>
 
