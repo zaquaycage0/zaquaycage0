@@ -5,7 +5,7 @@ I’m passionate about Identity and Access Management (IAM) and cybersecurity, w
 
 ## 🔐 Identity and Access Management (IAM) Projects
 
-- **[IAM Lab: Build & Secure a Company Identity System](your-link-here)**
+- **[IAM Lab: Build & Secure a Company Identity System](https://github.com/zaquaycage0/Enterprise-IAM-Lab)**
 
 ## ⚠️ Vulnerability Management Projects
 
