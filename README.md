@@ -6,9 +6,6 @@ I’m passionate about Identity and Access Management (IAM) and cybersecurity, w
 ## 🔐 Identity and Access Management (IAM) Projects
 
 - **[IAM Lab: Build & Secure a Company Identity System](your-link-here)**
-- **[RBAC and Least Privilege Access Control Lab](your-link-here)**
-- **[Privileged Access Management / CyberArk Lab](your-link-here)**
-- **[SSO, MFA, and Conditional Access Lab](your-link-here)**
 
 ## ⚠️ Vulnerability Management Projects
 
